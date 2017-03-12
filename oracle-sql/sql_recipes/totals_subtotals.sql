@@ -1,0 +1,1 @@
+select nvl(to_char(department_id),'-') as "DEPT.", 

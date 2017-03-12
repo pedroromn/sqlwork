@@ -1,0 +1,5 @@
+SELECT * --LOCATION_ID
+     FROM HR.LOCATIONS
+     WHERE
+       COUNTRY_ID = 'US' OR
+       COUNTRY_ID = 'CA'
