@@ -1,8 +1,8 @@
-Administracion bases de datos -> 54 (69 of 739)
+Administracion bases de datos -> 54 (80 of 739)
 
-Sistemas de gestion de bases de datos -> 26 (37 of 682)
+Sistemas de gestion de bases de datos -> 59 (86 of 682)
 
-Bases de datos. Catherine M Ricardo -> 2 (25 of 666)
+Bases de datos. Catherine M Ricardo -> 124 (148 of 666)
 
 The Language of SQL, 2nd Edition -> 1 (18 of 241)
 
@@ -11,9 +11,9 @@ Beginning SQL Queries -> 5 (24 of 250)
 
 ------------------------------------------------------------------
 
-Getting Started with SQL -> 3 (19 of 133)
+Getting Started with SQL -> 19 (35 of 133)
 
-Alan_Beaulieu-Learning_MySQL-EN -> 21 (22 of 337)
+Alan_Beaulieu-Learning_MySQL-EN -> 58 (73 of 337)
 
 Learning_MySQL -> 109 (129 of 622)
 
